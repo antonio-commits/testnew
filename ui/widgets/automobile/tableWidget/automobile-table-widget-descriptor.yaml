@@ -1,0 +1,6 @@
+code: automobile-table-widget
+titles:
+  en: Automobile Table Widget
+  it: Automobile Table Widget
+group: free
+customUiPath: automobile-table-widget.ftl

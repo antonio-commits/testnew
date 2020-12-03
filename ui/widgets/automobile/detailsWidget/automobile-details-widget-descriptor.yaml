@@ -1,0 +1,6 @@
+code: automobile-details-widget
+titles:
+  en: Automobile Details Widget
+  it: Automobile Details Widget
+group: free
+customUiPath: automobile-details-widget.ftl

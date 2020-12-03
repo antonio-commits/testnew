@@ -1,0 +1,13 @@
+code: testnew-bundle
+description: This is the testnew bundle
+
+components:
+  plugins:
+    - plugins/testnew-plugin.yaml
+
+  widgets:
+    - ui/widgets/automobile/tableWidget/automobile-table-widget-descriptor.yaml
+    - ui/widgets/automobile/detailsWidget/automobile-details-widget-descriptor.yaml
+    - ui/widgets/automobile/formWidget/automobile-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

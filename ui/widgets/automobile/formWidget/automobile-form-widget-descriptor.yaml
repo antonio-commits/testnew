@@ -1,0 +1,6 @@
+code: automobile-form-widget
+titles:
+  en: Automobile Form Widget
+  it: Automobile Form Widget
+group: free
+customUiPath: automobile-form-widget.ftl
